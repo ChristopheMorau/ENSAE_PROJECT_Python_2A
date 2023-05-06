@@ -1,5 +1,5 @@
 # Python_2A
-Ce repository contient un projet python réalisé par MM. Morau Christophe et Paysant Nathan dans le cadre de leur cours de Python pour le Data Scientist, enseigné à l'ENSAE Paris.
+Ce repository contient un projet python réalisé par MM. Morau Christophe et Paysant Nathan dans le cadre de leur cours de Python pour le Data Scientist, enseigné à l'ENSAE Paris. Ce projet a été noté 18/20.
 
 Il a pour objet l'exploitation des commentaires d'utilisateurs d'applications disponibles sur Google Play. Le modèle de classification, qui est l'élément central de l'analyse, vise à déterminer les attentes des consommateurs pour une catégorie d'application donnée, à partir des termes contenus dans les avis qu'ils publient.
 
